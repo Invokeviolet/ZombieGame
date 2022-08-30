@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: boss_dark_angramainiuu_dif
+  m_Shader: {fileID: 4800000, guid: f160acfde5887644a826bf3293d5ca8d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 4e4b1d2d96a650a42b2454d54592413e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FluidTex:
+        m_Texture: {fileID: 2800000, guid: c1e3e40204d558b4b93cfe49aa145264, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: d30d182b351c3cb49aba8b221f982bf1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: 8af77daad29f8b34da56515f193158f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecMap:
+        m_Texture: {fileID: 2800000, guid: c6156dea6fdfb6b4a9b687b87b4b87c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FluidBrightness: 1.2
+    - _GlowBrightness: 0.8
+    - _RimPower: 3.5
+    - _Shininess: 0.15
+    - _SpecPower: 1
+    - _UVPanX: -3
+    - _UVPanY: 0
+    m_Colors:
+    - _Color: {r: 0.54901963, g: 0.54901963, b: 0.54901963, a: 1}
+    - _FluidColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.27450982, g: 0.15686275, b: 0, a: 0}
+    - _SColor: {r: 0.1764706, g: 0.1764706, b: 0.1764706, a: 1}
+    - _TrembleVec: {r: 0, g: 0, b: 0, a: 0}

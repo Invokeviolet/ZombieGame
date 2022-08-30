@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: boss_bandit_dif
+  m_Shader: {fileID: 4800000, guid: 56490a12d3073f444a6b4eabf139c7eb, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 42e573e26fa95344db015a26670cca78, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FluidTex:
+        m_Texture: {fileID: 2800000, guid: 6d96345e3c695984089373c2230e3217, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 198ea6bffe42810469c2d6c6326b5062, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 42e573e26fa95344db015a26670cca78, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 2800000, guid: 8af77daad29f8b34da56515f193158f9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecMap:
+        m_Texture: {fileID: 2800000, guid: e09ed471a2696b447aa2dac7751cb908, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _GlowBrightness: 0.5
+    - _Outline: 0.005
+    - _RimPower: 5
+    - _Shininess: 0.15
+    - _SpecPower: 1
+    - _UVPanX: 0
+    - _UVPanY: -4.107143
+    m_Colors:
+    - _Color: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 0.50980395}
+    - _FluidColor: {r: 1, g: 1, b: 1, a: 1}
+    - _HighLightColor: {r: 0.6666667, g: 0.6666667, b: 0.6666667, a: 1}
+    - _OutlineColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _RimColor: {r: 0.35294116, g: 0.15986156, b: 0.12716262, a: 0.6}
+    - _SColor: {r: 0.3018868, g: 0.22926308, b: 0.22926308, a: 1}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.25173008, g: 0.33618888, b: 0.35294116, a: 0}
+    - _TrembleVec: {r: 0, g: 0, b: 0, a: 0}

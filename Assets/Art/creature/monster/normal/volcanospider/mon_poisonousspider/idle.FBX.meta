@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e777aaa26a38e2a4a8a015b49ed8dbca
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone010
+    100016: Bone012
+    100018: bone_export
+    100020: //RootNode
+    100022: mon_poisonousspider00
+    100024: Rock_point
+    100026: spider
+    100028: mon_poisonousspider
+    400000: body
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone010
+    400016: Bone012
+    400018: bone_export
+    400020: //RootNode
+    400022: mon_poisonousspider00
+    400024: Rock_point
+    400026: spider
+    400028: mon_poisonousspider
+    4300000: mon_poisonousspider00
+    4300002: mon_poisonousspider
+    7400000: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: mon_poisonousspider00
+    13700002: mon_poisonousspider
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 1
+    animationPositionError: 2
+    animationScaleError: 2
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mon_poisonousspider00
+        weight: 1
+      - path: spider
+        weight: 1
+      - path: spider/bone_export
+        weight: 1
+      - path: spider/bone_export/body
+        weight: 1
+      - path: spider/bone_export/body/Rock_point
+        weight: 1
+      - path: spider/bone_export/Bone003
+        weight: 1
+      - path: spider/bone_export/Bone003/Bone010
+        weight: 1
+      - path: spider/bone_export/Bone004
+        weight: 1
+      - path: spider/bone_export/Bone004/Bone012
+        weight: 1
+      - path: spider/bone_export/Bone005
+        weight: 1
+      - path: spider/bone_export/Bone006
+        weight: 1
+      - path: spider/bone_export/Bone007
+        weight: 1
+      - path: spider/bone_export/Bone008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

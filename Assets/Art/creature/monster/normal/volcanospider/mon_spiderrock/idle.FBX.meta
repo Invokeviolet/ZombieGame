@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 89d7e66c9ed89a54eb4140b9ded860fb
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone010
+    100016: Bone012
+    100018: bone_export
+    100020: //RootNode
+    100022: LB_cont
+    100024: LB_leg
+    100026: LB_swivel
+    100028: LF_cont
+    100030: LF_leg1
+    100032: LM_cont
+    100034: LM_leg
+    100036: LM_swivel
+    100038: mon_spiderrock
+    100040: RB_cont
+    100042: RB_leg
+    100044: RB_swivel
+    100046: RF_cont
+    100048: RF_leg1
+    100050: RM_cont
+    100052: RM_leg
+    100054: RM_swivel
+    100056: Rock_point
+    100058: spider
+    400000: body
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone010
+    400016: Bone012
+    400018: bone_export
+    400020: //RootNode
+    400022: LB_cont
+    400024: LB_leg
+    400026: LB_swivel
+    400028: LF_cont
+    400030: LF_leg1
+    400032: LM_cont
+    400034: LM_leg
+    400036: LM_swivel
+    400038: mon_spiderrock
+    400040: RB_cont
+    400042: RB_leg
+    400044: RB_swivel
+    400046: RF_cont
+    400048: RF_leg1
+    400050: RM_cont
+    400052: RM_leg
+    400054: RM_swivel
+    400056: Rock_point
+    400058: spider
+    4300000: mon_spiderrock
+    7400000: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: mon_spiderrock
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mon_spiderrock
+        weight: 1
+      - path: spider
+        weight: 1
+      - path: spider/bone_export
+        weight: 1
+      - path: spider/bone_export/body
+        weight: 1
+      - path: spider/bone_export/body/Rock_point
+        weight: 1
+      - path: spider/bone_export/Bone003
+        weight: 1
+      - path: spider/bone_export/Bone003/Bone010
+        weight: 1
+      - path: spider/bone_export/Bone004
+        weight: 1
+      - path: spider/bone_export/Bone004/Bone012
+        weight: 1
+      - path: spider/bone_export/Bone005
+        weight: 1
+      - path: spider/bone_export/Bone006
+        weight: 1
+      - path: spider/bone_export/Bone007
+        weight: 1
+      - path: spider/bone_export/Bone008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

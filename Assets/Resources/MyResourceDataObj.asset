@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c59329655147d24bb9e7d0a6d9a7a0d, type: 3}
+  m_Name: MyResourceDataObj
+  m_EditorClassIdentifier: 
+  PlayerAttacPower: 1
+  EffHit: {fileID: 6213619859274339249, guid: a91e28b1b0a4d894b807f161a6177b65, type: 3}
+  Value: 0
+  intValue: 0
+  myEffData:
+    myClip: {fileID: 0}
+    fx: {fileID: 0}
+  myEffDataArray:
+  - myClip: {fileID: 0}
+    fx: {fileID: 0}
+  - myClip: {fileID: 0}
+    fx: {fileID: 0}
+  - myClip: {fileID: 0}
+    fx: {fileID: 0}
+  - myClip: {fileID: 0}
+    fx: {fileID: 0}
+  - myClip: {fileID: 0}
+    fx: {fileID: 0}

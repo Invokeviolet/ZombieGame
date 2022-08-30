@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 720ae75487b87744f94e66d1b779fe3a
+timeCreated: 1448347967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bip001
+    100002: body
+    100004: boss_baal
+    100006: head
+    100008: //RootNode
+    100010: l_b_leg01
+    100012: l_b_leg02
+    100014: l_b_leg03
+    100016: l_f_leg01
+    100018: l_f_leg02
+    100020: l_f_leg03
+    100022: l_m_leg01
+    100024: l_m_leg02
+    100026: l_m_leg03
+    100028: l_wing_in
+    100030: l_wing_out
+    100032: mouth
+    100034: r_b_leg01
+    100036: r_b_leg02
+    100038: r_b_leg03
+    100040: r_f_leg01
+    100042: r_f_leg02
+    100044: r_f_leg03
+    100046: r_m_leg01
+    100048: r_m_leg02
+    100050: r_m_leg03
+    100052: r_wing_in
+    100054: r_wing_out
+    100056: spine
+    100058: tail01
+    100060: tail02
+    100062: tail03
+    400000: bip001
+    400002: body
+    400004: boss_baal
+    400006: head
+    400008: //RootNode
+    400010: l_b_leg01
+    400012: l_b_leg02
+    400014: l_b_leg03
+    400016: l_f_leg01
+    400018: l_f_leg02
+    400020: l_f_leg03
+    400022: l_m_leg01
+    400024: l_m_leg02
+    400026: l_m_leg03
+    400028: l_wing_in
+    400030: l_wing_out
+    400032: mouth
+    400034: r_b_leg01
+    400036: r_b_leg02
+    400038: r_b_leg03
+    400040: r_f_leg01
+    400042: r_f_leg02
+    400044: r_f_leg03
+    400046: r_m_leg01
+    400048: r_m_leg02
+    400050: r_m_leg03
+    400052: r_wing_in
+    400054: r_wing_out
+    400056: spine
+    400058: tail01
+    400060: tail02
+    400062: tail03
+    4300000: boss_baal
+    7400000: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: boss_baal
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 2
+    animationPositionError: 2
+    animationScaleError: 2
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bip001
+        weight: 1
+      - path: bip001/body
+        weight: 1
+      - path: bip001/body/spine
+        weight: 1
+      - path: bip001/body/spine/head
+        weight: 1
+      - path: bip001/body/spine/head/mouth
+        weight: 1
+      - path: bip001/body/spine/l_f_leg01
+        weight: 1
+      - path: bip001/body/spine/l_f_leg01/l_f_leg02
+        weight: 1
+      - path: bip001/body/spine/l_f_leg01/l_f_leg02/l_f_leg03
+        weight: 1
+      - path: bip001/body/spine/l_m_leg01
+        weight: 1
+      - path: bip001/body/spine/l_m_leg01/l_m_leg02
+        weight: 1
+      - path: bip001/body/spine/l_m_leg01/l_m_leg02/l_m_leg03
+        weight: 1
+      - path: bip001/body/spine/l_wing_in
+        weight: 1
+      - path: bip001/body/spine/l_wing_out
+        weight: 1
+      - path: bip001/body/spine/r_f_leg01
+        weight: 1
+      - path: bip001/body/spine/r_f_leg01/r_f_leg02
+        weight: 1
+      - path: bip001/body/spine/r_f_leg01/r_f_leg02/r_f_leg03
+        weight: 1
+      - path: bip001/body/spine/r_m_leg01
+        weight: 1
+      - path: bip001/body/spine/r_m_leg01/r_m_leg02
+        weight: 1
+      - path: bip001/body/spine/r_m_leg01/r_m_leg02/r_m_leg03
+        weight: 1
+      - path: bip001/body/spine/r_wing_in
+        weight: 1
+      - path: bip001/body/spine/r_wing_out
+        weight: 1
+      - path: bip001/body/tail01
+        weight: 1
+      - path: bip001/body/tail01/l_b_leg01
+        weight: 1
+      - path: bip001/body/tail01/l_b_leg01/l_b_leg02
+        weight: 1
+      - path: bip001/body/tail01/l_b_leg01/l_b_leg02/l_b_leg03
+        weight: 1
+      - path: bip001/body/tail01/r_b_leg01
+        weight: 1
+      - path: bip001/body/tail01/r_b_leg01/r_b_leg02
+        weight: 1
+      - path: bip001/body/tail01/r_b_leg01/r_b_leg02/r_b_leg03
+        weight: 1
+      - path: bip001/body/tail01/tail02
+        weight: 1
+      - path: bip001/body/tail01/tail02/tail03
+        weight: 1
+      - path: boss_baal
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
